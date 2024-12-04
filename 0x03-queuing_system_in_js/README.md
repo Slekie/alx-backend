@@ -1,1 +1,1 @@
-This project is about building a queuing system in JavaScript
+This project is about building a queuing system in JavaScript.
